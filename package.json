@@ -1,0 +1,20 @@
+{
+  "name": "fibonacci-worker",
+  "version": "1.0.0",
+  "description": "``` /Users/casiano/campus-virtual/1920/sytws1920/apuntes/tema1-introduccion/practicas/p2-t1-c3-file-system/event-loop/fibonacci-worker ``` A web worker that calculates fibonacci numbers. [See it live](https://mdn.github.io/fibonacci-worker/).",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-MII-SYTWS-1920/fibonacci-worker.git"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez-Leon <casiano.rodriguez.leon@gmail.com> (https://github.com/crguezl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-MII-SYTWS-1920/fibonacci-worker/issues"
+  },
+  "homepage": "https://github.com/ULL-MII-SYTWS-1920/fibonacci-worker#readme"
+}
